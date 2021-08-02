@@ -19,7 +19,7 @@
 <li>Gradient boosting</li>
 <li>Stacking classifier</li>
 </ol>
-  & compare their performance
+  & compare their performances
 </li>
 <li>And to find out the best model which can be used in the given scenario</li>
 </ul>
