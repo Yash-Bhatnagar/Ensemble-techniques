@@ -1,6 +1,6 @@
 # Ensemble-techniques
 <h3>Business Context:</h3>
-<p>Leveraging customer information is paramount for most businesses. In the case of a bank, attributes of customers like the ones mentioned below can be crucial in strategizing a marketing campaign when launching a new product</p>
+<p>Leveraging customer information is paramount for most businesses. In the case of a bank, various attributes of customers can be crucial in strategizing a marketing campaign when launching a new product</p>
 
 
 <h3>Data Context:</h3>
@@ -19,9 +19,9 @@
 <li>Gradient boosting</li>
 <li>Stacking classifier</li>
 </ol>
-And compare their performance
+  & compare their performance
 </li>
-<li>And find out the best model which can be used in the given scenario</li>
+<li>And to find out the best model which can be used in the given scenario</li>
 </ul>
 
 <h4>Note: Dataset used in this repository contains DUMMY values and shouldn't be used to draw parallels in real world!</h4>
